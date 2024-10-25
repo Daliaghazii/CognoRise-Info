@@ -1,2 +1,0 @@
-# CognoRise-Info
-Internship task
